@@ -4,11 +4,7 @@ A reusable **agent skill** for preparing, running, and following up on high-ROI 
 
 ## Why this exists
 
-Hi, I'm [CW (Chi Wei) Lin](https://www.linkedin.com/in/chiweilin131), founder and CEO of [Portaly](https://portaly.cc). I've been building startups for over a decade.
-
-Over the past year I traveled through New York, Tokyo, and San Francisco. In every city I looked for people to grab coffee with: founders from YC and a16z circles, and a few world-class creators. I prepared seriously for every single chat, because when someone gives you 30 minutes, how you spend them is everything.
-
-The result went far beyond "meeting people." Some of those chats turned into lasting friendships. A few led to decisions that changed the course of my life and my company.
+I'm [CW Lin](https://www.linkedin.com/in/chiweilin131), founder of [Portaly](https://portaly.cc). Over the past year, building my company took me through New York, Tokyo, and San Francisco, and in every city I sought out coffee chats: founders from YC and a16z circles, and a few world-class creators. I prepared seriously for every one, because when someone gives you 30 minutes, how you spend them is everything. Some of those chats became lasting friendships. A few changed the course of my company and my life.
 
 This repo is that preparation process, distilled: how I prepare before each chat, what I watch for during, and how I follow up after. The names and cases inside are fictional placeholders, but the workflow is the one I actually use.
 
