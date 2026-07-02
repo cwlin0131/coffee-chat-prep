@@ -1,4 +1,6 @@
-# Coffee Chat Prep
+**[English](./README.md)** | **[繁體中文](zh/README.md)**
+
+# Coffee Chat Playbook
 
 A reusable **agent skill** for preparing, running, and following up on high-ROI founder peer coffee chats and networking meetings, end to end: **Before → During → After**.
 
@@ -31,18 +33,22 @@ This repo is that preparation process, distilled: how I prepare before each chat
 - **Give before you take**: a structured "what do you most want to solve right now?" beat before offering anything.
 - **Anti-pattern checklist**: seven hard-earned mistakes to self-check against before delivering a prep.
 
-## Files
+## Structure
 
-| File | What it is |
+| Path | What it is |
 |---|---|
-| `SKILL.md` | The full three-phase workflow + checklists |
-| `question-bank.md` | A categorized library of questions (GTM, fundraising, positioning, product, peer-mirror, …) to draw from per node type |
-| `README.md` | This file |
+| `en/SKILL.md` | The full three-phase workflow + checklists (English) |
+| `en/question-bank.md` | A categorized library of questions (GTM, fundraising, positioning, product, peer-mirror, …) to draw from per node type |
+| `zh/README.md` | 繁體中文首頁 |
+| `zh/SKILL.md` | 全流程 + checklist（繁體中文） |
+| `zh/question-bank.md` | 建議問題題庫（繁體中文） |
 | `LICENSE` | CC BY 4.0 |
+
+Both language versions carry the same content; pick the one that matches the language you want your agent to work in.
 
 ## Using it
 
-This is written as an **Agent Skill** (for Claude Code or any agent framework that supports a skills directory). Drop the folder into your skills location and the agent triggers it when you ask to *prep / run / debrief* a meeting. It also reads fine as a **standalone human playbook**: open `SKILL.md` and follow the phases yourself.
+This is written as an **Agent Skill** (for Claude Code or any agent framework that supports a skills directory). Drop the `en/` or `zh/` folder into your skills location (rename it to `coffee-chat-prep` if your framework expects the folder name to match the skill name) and the agent triggers it when you ask to *prep / run / debrief* a meeting. It also reads fine as a **standalone human playbook**: open `SKILL.md` and follow the phases yourself.
 
 ### Host-specific hooks to adapt
 
@@ -55,7 +61,7 @@ The workflow references a few host conveniences. Swap them for your own equivale
 
 ## Customize
 
-- Edit `question-bank.md` to your domain and keep appending questions that worked after each chat.
+- Edit `question-bank.md` to your domain and keep appending questions that worked after each chat. Items marked 🧭 are tied to my specific path (an Asia-based founder entering the US); swap them for your own.
 - Tune the node filters and chemistry signals to your own network. The defaults are starting points, not rules.
 - All names, companies, and cases in the workflow are **illustrative placeholders**. Replace them with your own context.
 
@@ -63,6 +69,6 @@ The workflow references a few host conveniences. Swap them for your own equivale
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Free to use, modify, and commercialize with attribution:
 
-> Based on [Coffee Chat Prep](https://github.com/cwlin0131/coffee-chat-prep) by [CW Lin](https://github.com/cwlin0131)
+> Based on [Coffee Chat Playbook](https://github.com/cwlin0131/coffee-chat-prep) by [CW Lin](https://github.com/cwlin0131)
 
 Examples are fictional and for illustration only.

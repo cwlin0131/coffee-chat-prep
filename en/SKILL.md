@@ -4,7 +4,7 @@ description: |
   Prepare, run, and follow up on founder peer coffee chats / networking meetings end to end (Before -> During -> After). Trigger when the user says things like "prep my coffee chat with X", "I'm meeting someone next week, help me prepare", "meeting prep", "coffee chat strategy", "networking meeting prep", "what should I talk about with X", "help me follow up after meeting X", or "read the chemistry of this meeting". Also applies when the user mentions an upcoming 1:1 without explicitly asking to prep — the agent can proactively suggest this flow. Suggested questions live in question-bank.md (pick by node type / purpose).
 ---
 
-# Coffee Chat Prep (Before / During / After)
+# Coffee Chat Playbook (Before / During / After)
 
 Take a founder peer 1:1 (warm intro, 30-90 min, dual purpose: build the relationship + tactical learning) through a complete workflow.
 
