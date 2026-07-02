@@ -4,9 +4,13 @@ A reusable **agent skill** for preparing, running, and following up on high-ROI 
 
 ## Why this exists
 
-Hi, I'm [CW (Chi Wei) Lin](https://portaly.cc/cw), founder and CEO of [Portaly](https://portaly.cc). I've been building startups for over a decade. In 2026, while expanding from Asia into the US, I started running founder peer coffee chats to learn a new market and build a network from zero.
+Hi, I'm [CW (Chi Wei) Lin](https://www.linkedin.com/in/chiweilin131), founder and CEO of [Portaly](https://portaly.cc). I've been building startups for over a decade.
 
-This repo is the playbook I distilled from those chats: how I prepare before each one, what I watch for during, and how I follow up after. The names and cases inside are fictional placeholders, but the workflow is the one I actually use.
+Over the past year I traveled through New York, Tokyo, and San Francisco. In every city I looked for people to grab coffee with: founders from YC and a16z circles, and a few world-class creators. I prepared seriously for every single chat, because when someone gives you 30 minutes, how you spend them is everything.
+
+The result went far beyond "meeting people." Some of those chats turned into lasting friendships. A few led to decisions that changed the course of my life and my company.
+
+This repo is that preparation process, distilled: how I prepare before each chat, what I watch for during, and how I follow up after. The names and cases inside are fictional placeholders, but the workflow is the one I actually use.
 
 > **Mindset first:** no one is obligated to help you. Every invitation and ask must be polite and carry genuine gratitude. That attitude comes before any tactic here.
 >
