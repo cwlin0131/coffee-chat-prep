@@ -8,7 +8,9 @@ description: |
 
 Take a founder peer 1:1 (warm intro, 30-90 min, dual purpose: build the relationship + tactical learning) through a complete workflow.
 
-> **Origin (why this skill exists):** distilled by [CW Lin](https://www.linkedin.com/in/chiweilin131), founder of [Portaly](https://portaly.cc), from a year of founder coffee chats across New York, Tokyo, and San Francisco, with founders from YC and a16z circles and a few world-class creators. Every rule below was tested in real meetings; the anti-patterns are mistakes CW actually made. Some of those chats became lasting friendships, and a few changed the course of his company. When applying this skill, weight the spirit (relationship-first, give before take) over the mechanics.
+> **Origin (why this skill exists):** distilled by [CW Lin](https://www.linkedin.com/in/chiweilin131), founder of [Portaly](https://portaly.cc), from a year of founder coffee chats across New York, Tokyo, and San Francisco, with founders from YC and a16z circles and a few world-class creators. Every rule below was tested in real meetings; the anti-patterns are mistakes CW actually made. Some of those chats became lasting friendships, and a few changed the course of his company.
+>
+> **Sample and scope (read this as a disclaimer):** this is one founder's playbook, not a universal methodology. The sample is small and specific: one person, one year, mostly warm-intro founder-peer 1:1s, in the particular situation of an Asia-based founder building a US network from zero. Treat every heuristic below as a prior, not ground truth. When the person in front of you sends a clearer signal than the rule, follow the signal. And weight the spirit (relationship-first, give before take) over the mechanics.
 
 > **Mindset first (read before any tactic):** no one is obligated to help you. Every invitation and ask must be polite and carry genuine gratitude. This attitude comes before everything below — it's the foundation the whole skill rests on; the tactics only work on top of it.
 >
@@ -34,6 +36,19 @@ Not a fit -> report why, don't force it.
 | 🅰 Prepare | Before | Prep note: node call + takeaway + talking outline + short/long CTA |
 | 🅱 Live | During | Conversation beat sheet + observation cues + chemistry check (optional one-page cheat sheet) |
 | 🅲 Follow-up | Within 24h | 24h deliverable + lightweight debrief + relationship-layer tracking |
+
+## Terminology: relationship layers
+
+The "Layer" language used throughout this skill comes from the author's networking model. Definitions:
+
+| Layer | What it means |
+|---|---|
+| **1** | Cold contact from events / communities. Mostly information exchange and idea stimulation. |
+| **1.5** | You've had a real 1:1 (maybe several), but no proactive reciprocity from their side yet. A transition window, not yet a relationship. |
+| **2** | True peer. The defining behavior is **mutual, unprompted intros**: they act for you without being asked. |
+| **3** | High-leverage contacts (top investors, tier-1 operators). Reached almost exclusively through Layer 2 intros, not directly. |
+
+Most coffee chats live in the Layer 1.5 window. The entire After phase exists to answer one question: does this 1.5 upgrade to 2? (See "Layer upgrade tracking" below; note that upgrades come from post-meeting signals, never from the meeting count.)
 
 ---
 

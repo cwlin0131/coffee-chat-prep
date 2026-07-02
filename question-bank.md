@@ -3,6 +3,7 @@
 > Companion to the `coffee-chat-prep` skill. These questions are field-tested, not theoretical: they come from real chats [CW Lin](https://www.linkedin.com/in/chiweilin131) ran while taking [Portaly](https://portaly.cc) from Asia into the US. They lean toward his context (SaaS founder, entering a new market); keep the ones that fit yours and replace the rest.
 >
 > When building Segment B, pick 3-5 questions here by **node type + your motive**, rank them, and attach 1-2 sub-clarifiers each.
+> Items marked **🧭** are tied to CW's specific path (an Asia-based founder entering the US); when adapting this bank, swap them for the equivalents on *your* path instead of asking them verbatim.
 > Keep it growing: after each chat, append the new questions that worked to the right topic.
 > Ranking principle: actionable for you > they're willing to share > unique to this person (don't ask what's publicly searchable).
 
@@ -28,7 +29,7 @@ Picking guide (node type -> priority topics):
 
 - Which application questions changed the most? Original vs revised — what was the difference?
   - sub: which old answer missed the mark? Why?
-- What do partners actually care about? Most common pitfalls? What do non-US founders most underestimate?
+- What do partners actually care about? Most common pitfalls? 🧭 What do non-US founders most underestimate?
 - What exactly did the rejection letter say? Was it actionable feedback or abstract direction?
 - How fast do reference calls come? How do you prep customer / industry refs in advance?
 - This round or wait for the next? (asking the person who did it is more honest than asking a partner)
@@ -46,7 +47,7 @@ Picking guide (node type -> priority topics):
 *Fits: peer founder, Ally node*
 
 - Solo founder (or a co-founder left) — how did you push through?
-- Non-US founder + local background — how do you answer "why not SF / why you"?
+- 🧭 Non-US founder + local background — how do you answer "why not SF / why you"?
 - Team size? Do you believe in "small team of 2-5 for fast AI iteration"? How do you split work?
 - Which hire did you get right / wrong?
 
@@ -57,8 +58,8 @@ Picking guide (node type -> priority topics):
 - Which features did you decide *not* to build? How did you decide?
 - Which feature got a user reaction most different from what you expected?
 
-## ⑥ Operations (bicoastal / visa / time zones / cross-shore)
-*Fits: bicoastal peers or those entering the US*
+## ⑥ Operations (bicoastal / visa / time zones / cross-shore) 🧭
+*Fits: bicoastal peers or those entering the US. This whole topic comes from CW's own path; replace with your own operational reality.*
 
 - Bicoastal in practice: flight cadence, time zones, how the team holds up?
 - What pitfalls did you hit with visas / company setup?
@@ -77,7 +78,7 @@ Picking guide (node type -> priority topics):
 ## Long-version CTA questions (unlock only at 90 min+)
 *Throw only when the conversation extends naturally; strategic / long-horizon:*
 
-- Suppose I'm pushing [product / X] into the US next year — how would you design the first 30 days?
+- 🧭 Suppose I'm pushing [product / X] into the US next year — how would you design the first 30 days?
 - If you were me, where would you put 80% of your energy at this stage?
 - Is there a "let's just try it, might not work" level small collaboration we could start? (connects to the collab-proposal 4 principles)
 
