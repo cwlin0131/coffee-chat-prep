@@ -1,6 +1,8 @@
 # Coffee Chat Question Bank
 
-> Companion to the `coffee-chat-prep` skill. When building Segment B, pick 3-5 questions here by **node type + your motive**, rank them, and attach 1-2 sub-clarifiers each.
+> Companion to the `coffee-chat-prep` skill. These questions are field-tested, not theoretical: they come from real chats [CW Lin](https://www.linkedin.com/in/chiweilin131) ran while taking [Portaly](https://portaly.cc) from Asia into the US. They lean toward his context (SaaS founder, entering a new market); keep the ones that fit yours and replace the rest.
+>
+> When building Segment B, pick 3-5 questions here by **node type + your motive**, rank them, and attach 1-2 sub-clarifiers each.
 > Keep it growing: after each chat, append the new questions that worked to the right topic.
 > Ranking principle: actionable for you > they're willing to share > unique to this person (don't ask what's publicly searchable).
 

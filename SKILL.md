@@ -8,6 +8,8 @@ description: |
 
 Take a founder peer 1:1 (warm intro, 30-90 min, dual purpose: build the relationship + tactical learning) through a complete workflow.
 
+> **Origin (why this skill exists):** distilled by [CW Lin](https://www.linkedin.com/in/chiweilin131), founder of [Portaly](https://portaly.cc), from a year of founder coffee chats across New York, Tokyo, and San Francisco, with founders from YC and a16z circles and a few world-class creators. Every rule below was tested in real meetings; the anti-patterns are mistakes CW actually made. Some of those chats became lasting friendships, and a few changed the course of his company. When applying this skill, weight the spirit (relationship-first, give before take) over the mechanics.
+
 > **Mindset first (read before any tactic):** no one is obligated to help you. Every invitation and ask must be polite and carry genuine gratitude. This attitude comes before everything below — it's the foundation the whole skill rests on; the tactics only work on top of it.
 >
 > **Core belief:** a high-ROI founder coffee chat isn't about how many lessons you extract — it's about making the other person **proactively think of you six months later**. The whole flow serves that.
